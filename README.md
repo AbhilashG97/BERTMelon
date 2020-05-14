@@ -10,7 +10,7 @@ According to Wikipedia -
 
 ## Task
 
-To predict the sentiment of code-mixed Malayalam-English data with high accuracy. 
+To predict the sentiment of code-mixed Hindi-English data with high accuracy. 
 
 ## TODO
 
